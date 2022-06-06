@@ -13,7 +13,7 @@ My project is differentially methylated analysis between control and bipolar gro
 
 ### We used ChAMP R package for analyzing DNA methylation.
 
-we tried to do these step.
+we tried to do these step. (based on ChAMP R package tutorial code)
 * Preprocessing step
 * Quality control step
 * Differentially methylated analysis
