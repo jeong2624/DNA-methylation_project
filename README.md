@@ -1,4 +1,4 @@
-# DNA_methylation_ChAMP
+# ChAMP_my_project
 
 This is my project for DNA methylation analysis.
 
