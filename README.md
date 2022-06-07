@@ -27,3 +27,8 @@ we tried to do these step. (based on ChAMP R package tutorial code)
 * CNA : CNA analysis result
 * Normalization : QC results after normalization (MDS plot, Hirechical Cluster, Density plot)
 * SVD_analysis : SVD analysis result (check batch effect)
+
+### Important !!!
+1. Metadata and IDAT files are in the same directory.
+2. Check the Slide columns in Metadata. 
+(ex) Slide : 202816900054, Basenames : GSM3712754_202816900054_R01C01
