@@ -8,7 +8,7 @@
 * According to this project, I want to understand which genes exhibit differential methylation at CpG sites between the control and bipolar groups.
 * It mainly deals with steps below.
   1. Quality control (QC) & Preprocessing
-  2. Differentially methylated analysis
+  2. Differentially methylation analysis
   3. Gene Set Enrichment analysis (GSEA)
   4. estimate Copy number variation (CNA)
 
