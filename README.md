@@ -5,7 +5,7 @@
 #### Description :
 * The project was conducted as part of the RISE (Research Intensive Self-motivated Education) class in the Molecular Life Sciences program at Incheon National University, Korea.
 * The purpose of this project is to learn how to analyze DNA methylation datasets.
-* According to this project, I want to understand the functions of genes that exhibit differential methylation at CpG sites between the control and bipolar groups.
+* According to this project, I want to understand which genes exhibit differential methylation at CpG sites between the control and bipolar groups.
 * It mainly deals with steps below.
   1. Quality control (QC) & Preprocessing
   2. Differentially methylated analysis
@@ -18,7 +18,6 @@
 * the number of control group is 32 samples
 * the number of bipolar group is 32 samples
 * IDAT format. (GSE129428, Download from GEO database)
-
 
 #### We uploaded these files:
 * ChAMP_analysis.R : DNA methylation analysis code using ChAMP R package.
