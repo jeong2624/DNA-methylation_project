@@ -1,23 +1,24 @@
-# Project name : DNA methylation analysis for Bipolar
+## Project name : DNA methylation analysis for Bipolar
 
-# Project time : 2019.09.07 - 2019.11.02
-This is my project for DNA methylation analysis.
+#### Project time : 2019.09.07 - 2019.11.02
 
-My project is differentially methylated analysis between control and bipolar group.
+#### Description :
+* The project was conducted as part of the RISE (Research Intensive Self-motivated Education) class in the Molecular Life Sciences program at Incheon National University, Korea.
+* The purpose of this project is to learn how to analyze DNA methylation datasets.
+* According to this project, I want to understand the functions of genes that exhibit differential methylation at CpG sites between the control and bipolar groups.
+* It mainly deals with steps below.
+  1. Quality control (QC) & Preprocessing
+  2. Differentially methylated analysis
+  3. Gene Set Enrichment analysis (GSEA)
+  4. estimate Copy number variation (CNA)
 
-### Dataset information
+#### Dataset information
 * Infinium MethylationEPIC array chip (850K) platform
 * Post-mortem hippocampus tissue
 * the number of control group is 32 samples
 * the number of bipolar group is 32 samples
 * IDAT format. (GSE129428, Download from GEO database)
 
-** It mainly deals with steps below. **
-* Preprocessing step
-* Quality control step (QC)
-* Differentially methylated analysis
-* Gene Set Enrichment analysis (GSEA)
-* Copy number variation (CNA)
 
 ### We uploaded these files:
 * ChAMP_analysis.R : DNA methylation analysis code using ChAMP R package.
