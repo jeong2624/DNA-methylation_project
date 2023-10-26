@@ -20,7 +20,7 @@
 * IDAT format. (GSE129428, Download from GEO database)
 
 
-### We uploaded these files:
+#### We uploaded these files:
 * ChAMP_analysis.R : DNA methylation analysis code using ChAMP R package.
 * GSE129428_pd.csv : Metadata (Phenotype, Age, Smoke status, BMI and so on.)
 * GSEA_result.csv : GSEA result
@@ -28,7 +28,7 @@
 * Normalization : QC results after normalization (MDS plot, Hirechical Cluster, Density plot)
 * SVD_analysis : SVD analysis result (check batch effect)
 
-### Important !!!
+#### Important !!!
 1. Metadata and IDAT files are in the same directory.
 2. Check the Slide columns in Metadata. 
 (ex) Slide : 202816900054, Basenames : GSM3712754_202816900054_R01C01
