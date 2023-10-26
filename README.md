@@ -4,7 +4,7 @@
 
 #### Description :
 * The project was conducted as part of the RISE (Research Intensive Self-motivated Education) class in the Molecular Life Sciences at Incheon National University, Korea.
-* The purpose of this project is to learn how to analyze DNA methylation datasets.
+* The purpose of this project is to learn how to analyze DNA methylation datasets using the "ChAMP" R package.
 * According to this project, I want to understand which genes exhibit differential methylation at CpG sites between the control and bipolar groups.
 * It mainly deals with steps below.
   1. Quality control (QC) & Preprocessing
