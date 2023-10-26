@@ -1,5 +1,6 @@
-# ChAMP_my_project
+# Project name : DNA methylation analysis for Bipolar
 
+# Project time : 2019.09.07 - 2019.11.02
 This is my project for DNA methylation analysis.
 
 My project is differentially methylated analysis between control and bipolar group.
@@ -11,9 +12,7 @@ My project is differentially methylated analysis between control and bipolar gro
 * the number of bipolar group is 32 samples
 * IDAT format. (GSE129428, Download from GEO database)
 
-### We used ChAMP R package for analyzing DNA methylation.
-
-we tried to do these step. (based on ChAMP R package tutorial code)
+** It mainly deals with steps below. **
 * Preprocessing step
 * Quality control step (QC)
 * Differentially methylated analysis
