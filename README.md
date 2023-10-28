@@ -17,7 +17,7 @@
 * Post-mortem hippocampus tissue
 * the number of control group is 32 samples
 * the number of bipolar group is 32 samples
-* IDAT format. (GSE129428, Download from GEO database)
+* IDAT format. ([GSE129428](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129428), Download from GEO database)
 
 #### We uploaded these files:
 * ChAMP_analysis.R : DNA methylation analysis code using ChAMP R package.
