@@ -26,7 +26,7 @@
 * CNA : CNA analysis result
 * Normalization : QC results after normalization (MDS plot, Hirechical Cluster, Density plot)
 * SVD_analysis : SVD analysis result (check batch effect)
-* Annotation.py : Python script that proceeds with gene announcement based on estimated CNV information.
+* Annotation.py : Python script that proceeds with gene annotation based on estimated CNV information.
 
 #### Important !!!
 1. Metadata and IDAT files are in the same directory.
